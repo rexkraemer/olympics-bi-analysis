@@ -1,0 +1,458 @@
+Sport_ID,Sport,Event
+98,Basketball,Basketball Men's Basketball
+237,Judo,Judo Men's Extra-Lightweight
+93,Badminton,Badminton Men's Singles
+304,Sailing,Sailing Women's Windsurfer
+216,Gymnastics,Gymnastics Men's Individual All-Around
+223,Gymnastics,Gymnastics Men's Team All-Around
+213,Gymnastics,Gymnastics Men's Floor Exercise
+215,Gymnastics,Gymnastics Men's Horse Vault
+219,Gymnastics,Gymnastics Men's Parallel Bars
+214,Gymnastics,Gymnastics Men's Horizontal Bar
+221,Gymnastics,Gymnastics Men's Rings
+220,Gymnastics,Gymnastics Men's Pommelled Horse
+59,Athletics,Athletics Men's Shot Put
+429,Weightlifting,Weightlifting Women's Super-Heavyweight
+441,Wrestling,"Wrestling Men's Light-Heavyweight, Greco-Roman"
+295,Sailing,Sailing Mixed Three Person Keelboat
+267,Rowing,Rowing Men's Lightweight Double Sculls
+58,Athletics,Athletics Men's Pole Vault
+285,Sailing,Sailing Men's Two Person Dinghy
+15,Athletics,"Athletics Men's 1,500 metres"
+342,Swimming,Swimming Men's 100 metres Butterfly
+347,Swimming,Swimming Men's 200 metres Butterfly
+352,Swimming,Swimming Men's 4 x 100 metres Medley Relay
+210,Football,Football Women's Football
+192,Equestrianism,"Equestrianism Mixed Jumping, Individual"
+314,Shooting,"Shooting Men's Rapid-Fire Pistol, 25 metres"
+320,Shooting,Shooting Men's Trap
+33,Athletics,Athletics Men's 4 x 100 metres Relay
+55,Athletics,Athletics Men's Long Jump
+85,Athletics,Athletics Women's Javelin Throw
+436,Wrestling,"Wrestling Men's Heavyweight, Freestyle"
+388,Taekwondo,Taekwondo Men's Flyweight
+38,Athletics,"Athletics Men's 5,000 metres"
+109,Boxing,Boxing Men's Light-Welterweight
+418,Weightlifting,Weightlifting Men's Lightweight
+420,Weightlifting,Weightlifting Men's Middleweight
+209,Football,Football Men's Football
+264,Rowing,Rowing Men's Coxless Pairs
+200,Fencing,"Fencing Men's epee, Individual"
+392,Taekwondo,Taekwondo Women's Flyweight
+99,Basketball,Basketball Women's Basketball
+176,Diving,Diving Men's Platform
+119,Canoeing,"Canoeing Men's Canadian Doubles, 500 metres"
+117,Canoeing,"Canoeing Men's Canadian Doubles, 1,000 metres"
+131,Canoeing,"Canoeing Men's Kayak Fours, 1,000 metres"
+232,Handball,Handball Men's Handball
+274,Rowing,Rowing Women's Coxless Pairs
+111,Boxing,Boxing Men's Middleweight
+408,Water Polo,Water Polo Men's Water Polo
+395,Tennis,Tennis Men's Doubles
+432,Wrestling,"Wrestling Men's Featherweight, Freestyle"
+297,Sailing,Sailing Mixed Two Person Heavyweight Dinghy
+90,Athletics,Athletics Women's Shot Put
+172,Cycling,Cycling Women's Sprint
+163,Cycling,Cycling Women's 500 metres Time Trial
+21,Athletics,Athletics Men's 110 metres Hurdles
+87,Athletics,Athletics Women's Marathon
+20,Athletics,Athletics Men's 100 metres
+51,Athletics,Athletics Men's High Jump
+196,Fencing,"Fencing Men's Foil, Individual"
+197,Fencing,"Fencing Men's Foil, Team"
+199,Fencing,"Fencing Men's Sabre, Team"
+110,Boxing,Boxing Men's Lightweight
+113,Boxing,Boxing Men's Welterweight
+268,Rowing,Rowing Men's Quadruple Sculls
+265,Rowing,Rowing Men's Double Sculls
+262,Rowing,Rowing Men's Coxed Pairs
+259,Rowing,Rowing Men's Coxed Eights
+36,Athletics,Athletics Men's 400 metres Hurdles
+35,Athletics,Athletics Men's 400 metres
+50,Athletics,Athletics Men's Hammer Throw
+42,Athletics,Athletics Men's 800 metres
+156,Cycling,"Cycling Men's Road Race, Individual"
+343,Swimming,Swimming Men's 100 metres Freestyle
+234,Hockey,Hockey Men's Hockey
+278,Rowing,Rowing Women's Single Sculls
+359,Swimming,Swimming Men's 50 metres Freestyle
+423,Weightlifting,Weightlifting Women's Featherweight
+409,Water Polo,Water Polo Women's Water Polo
+233,Handball,Handball Women's Handball
+414,Weightlifting,Weightlifting Men's Heavyweight
+194,Equestrianism,"Equestrianism Mixed Three-Day Event, Individual"
+195,Equestrianism,"Equestrianism Mixed Three-Day Event, Team"
+302,Sailing,Sailing Women's Three Person Keelboat
+171,Cycling,"Cycling Women's Road Race, Individual"
+337,Softball,Softball Women's Softball
+3,Archery,Archery Women's Individual
+437,Wrestling,"Wrestling Men's Heavyweight, Greco-Roman"
+406,Volleyball,Volleyball Men's Volleyball
+378,Synchronized Swimming,Synchronized Swimming Women's Duet
+380,Synchronized Swimming,Synchronized Swimming Women's Team
+391,Taekwondo,Taekwondo Women's Featherweight
+56,Athletics,Athletics Men's Marathon
+34,Athletics,Athletics Men's 4 x 400 metres Relay
+72,Athletics,"Athletics Women's 3,000 metres"
+180,Diving,Diving Women's Platform
+306,Shooting,"Shooting Men's Air Rifle, 10 metres"
+103,Boxing,Boxing Men's Featherweight
+413,Weightlifting,Weightlifting Men's Flyweight
+443,Wrestling,"Wrestling Men's Lightweight, Greco-Roman"
+449,Wrestling,"Wrestling Men's Super-Heavyweight, Greco-Roman"
+308,Shooting,"Shooting Men's Free Pistol, 50 metres"
+305,Shooting,"Shooting Men's Air Pistol, 10 metres"
+201,Fencing,"Fencing Men's epee, Team"
+263,Rowing,Rowing Men's Coxless Fours
+106,Boxing,Boxing Men's Light-Flyweight
+112,Boxing,Boxing Men's Super-Heavyweight
+331,Shooting,"Shooting Women's Air Rifle, 10 metres"
+240,Judo,Judo Men's Half-Middleweight
+417,Weightlifting,Weightlifting Men's Light-Heavyweight
+419,Weightlifting,Weightlifting Men's Middle-Heavyweight
+52,Athletics,Athletics Men's Javelin Throw
+407,Volleyball,Volleyball Women's Volleyball
+451,Wrestling,"Wrestling Men's Welterweight, Greco-Roman"
+447,Wrestling,"Wrestling Men's Middleweight, Greco-Roman"
+19,Athletics,"Athletics Men's 10,000 metres"
+27,Athletics,"Athletics Men's 3,000 metres Steeplechase"
+446,Wrestling,"Wrestling Men's Middleweight, Freestyle"
+362,Swimming,Swimming Women's 100 metres Backstroke
+366,Swimming,Swimming Women's 200 metres Backstroke
+372,Swimming,Swimming Women's 4 x 100 metres Medley Relay
+440,Wrestling,"Wrestling Men's Light-Heavyweight, Freestyle"
+253,Modern Pentathlon,Modern Pentathlon Men's Individual
+254,Modern Pentathlon,Modern Pentathlon Men's Team
+71,Athletics,Athletics Women's 200 metres
+385,Table Tennis,Table Tennis Women's Singles
+384,Table Tennis,Table Tennis Women's Doubles
+317,Shooting,Shooting Men's Skeet
+24,Athletics,Athletics Men's 200 metres
+319,Shooting,"Shooting Men's Small-Bore Rifle, Three Positions, 50 metres"
+68,Athletics,Athletics Women's 100 metres
+427,Weightlifting,Weightlifting Women's Lightweight
+86,Athletics,Athletics Women's Long Jump
+206,Fencing,"Fencing Women's epee, Individual"
+348,Swimming,Swimming Men's 200 metres Freestyle
+351,Swimming,Swimming Men's 4 x 100 metres Freestyle Relay
+353,Swimming,Swimming Men's 4 x 200 metres Freestyle Relay
+349,Swimming,Swimming Men's 200 metres Individual Medley
+357,Swimming,Swimming Men's 400 metres Individual Medley
+105,Boxing,Boxing Men's Heavyweight
+430,Wrestling,"Wrestling Men's Bantamweight, Freestyle"
+434,Wrestling,"Wrestling Men's Flyweight, Freestyle"
+78,Athletics,"Athletics Women's 5,000 metres"
+426,Weightlifting,Weightlifting Women's Light-Heavyweight
+425,Weightlifting,Weightlifting Women's Heavyweight
+47,Athletics,Athletics Men's Discus Throw
+412,Weightlifting,Weightlifting Men's Featherweight
+387,Taekwondo,Taekwondo Men's Featherweight
+390,Taekwondo,Taekwondo Men's Welterweight
+241,Judo,Judo Men's Heavyweight
+102,Boxing,Boxing Men's Bantamweight
+442,Wrestling,"Wrestling Men's Lightweight, Freestyle"
+97,Baseball,Baseball Men's Baseball
+260,Rowing,Rowing Men's Coxed Fours
+144,Cycling,Cycling Men's 100 kilometres Team Time Trial
+104,Boxing,Boxing Men's Flyweight
+198,Fencing,"Fencing Men's Sabre, Individual"
+257,Rhythmic Gymnastics,Rhythmic Gymnastics Women's Group
+228,Gymnastics,Gymnastics Women's Individual All-Around
+229,Gymnastics,Gymnastics Women's Team All-Around
+226,Gymnastics,Gymnastics Women's Floor Exercise
+227,Gymnastics,Gymnastics Women's Horse Vault
+231,Gymnastics,Gymnastics Women's Uneven Bars
+225,Gymnastics,Gymnastics Women's Balance Beam
+181,Diving,Diving Women's Springboard
+183,Diving,Diving Women's Synchronized Springboard
+67,Athletics,"Athletics Women's 10,000 metres"
+46,Athletics,Athletics Men's Decathlon
+74,Athletics,Athletics Women's 4 x 100 metres Relay
+64,Athletics,Athletics Men's Triple Jump
+376,Swimming,Swimming Women's 50 metres Freestyle
+81,Athletics,Athletics Women's Discus Throw
+65,Athletics,"Athletics Women's 1,500 metres"
+330,Shooting,"Shooting Women's Air Pistol, 10 metres"
+335,Shooting,"Shooting Women's Sporting Pistol, 25 metres"
+130,Canoeing,"Canoeing Men's Kayak Doubles, 500 metres"
+136,Canoeing,"Canoeing Men's Kayak Singles, 500 metres"
+133,Canoeing,"Canoeing Men's Kayak Singles, 1,000 metres"
+316,Shooting,"Shooting Men's Running Target, 50 metres"
+246,Judo,Judo Women's Half-Heavyweight
+89,Athletics,Athletics Women's Pole Vault
+281,Rugby Sevens,Rugby Sevens Women's Rugby Sevens
+383,Table Tennis,Table Tennis Men's Team
+270,Rowing,Rowing Women's Coxed Eights
+75,Athletics,Athletics Women's 4 x 400 metres Relay
+356,Swimming,Swimming Men's 400 metres Freestyle
+158,Cycling,Cycling Men's Sprint
+143,Cycling,"Cycling Men's 1,000 metres Time Trial"
+149,Cycling,"Cycling Men's Individual Pursuit, 4,000 metres"
+450,Wrestling,"Wrestling Men's Welterweight, Freestyle"
+431,Wrestling,"Wrestling Men's Bantamweight, Greco-Roman"
+340,Swimming,Swimming Men's 100 metres Backstroke
+276,Rowing,Rowing Women's Lightweight Double Sculls
+80,Athletics,Athletics Women's 800 metres
+272,Rowing,Rowing Women's Coxed Quadruple Sculls
+258,Rhythmic Gymnastics,Rhythmic Gymnastics Women's Individual
+137,Canoeing,"Canoeing Men's Kayak Singles, Slalom"
+1,Archery,Archery Men's Individual
+2,Archery,Archery Men's Team
+371,Swimming,Swimming Women's 4 x 100 metres Freestyle Relay
+76,Athletics,Athletics Women's 400 metres
+401,Trampolining,Trampolining Men's Individual
+100,Beach Volleyball,Beach Volleyball Men's Beach Volleyball
+168,Cycling,"Cycling Women's Mountainbike, Cross-Country"
+404,Triathlon,Triathlon Women's Olympic Distance
+153,Cycling,"Cycling Men's Mountainbike, Cross-Country"
+77,Athletics,Athletics Women's 400 metres Hurdles
+242,Judo,Judo Men's Lightweight
+177,Diving,Diving Men's Springboard
+435,Wrestling,"Wrestling Men's Flyweight, Greco-Roman"
+433,Wrestling,"Wrestling Men's Featherweight, Greco-Roman"
+382,Table Tennis,Table Tennis Men's Singles
+318,Shooting,"Shooting Men's Small-Bore Rifle, Prone, 50 metres"
+277,Rowing,Rowing Women's Quadruple Sculls
+88,Athletics,Athletics Women's Pentathlon
+161,Cycling,"Cycling Men's Team Pursuit, 4,000 metres"
+345,Swimming,Swimming Men's 200 metres Backstroke
+428,Weightlifting,Weightlifting Women's Middleweight
+455,Wrestling,"Wrestling Women's Light-Heavyweight, Freestyle"
+84,Athletics,Athletics Women's High Jump
+139,Canoeing,"Canoeing Women's Kayak Fours, 500 metres"
+282,Sailing,Sailing Men's One Person Dinghy
+402,Trampolining,Trampolining Women's Individual
+243,Judo,Judo Men's Middleweight
+326,Shooting,Shooting Mixed Skeet
+239,Judo,Judo Men's Half-Lightweight
+203,Fencing,"Fencing Women's Foil, Team"
+368,Swimming,Swimming Women's 200 metres Butterfly
+375,Swimming,Swimming Women's 400 metres Individual Medley
+61,Athletics,Athletics Men's Standing High Jump
+62,Athletics,Athletics Men's Standing Long Jump
+23,Athletics,Athletics Men's 20 kilometres Walk
+238,Judo,Judo Men's Half-Heavyweight
+39,Athletics,Athletics Men's 50 kilometres Walk
+275,Rowing,Rowing Women's Double Sculls
+114,Boxing,Boxing Women's Flyweight
+69,Athletics,Athletics Women's 100 metres Hurdles
+49,Athletics,"Athletics Men's Discus Throw, Greek Style"
+293,Sailing,Sailing Mixed One Person Dinghy
+107,Boxing,Boxing Men's Light-Heavyweight
+454,Wrestling,"Wrestling Women's Heavyweight, Freestyle"
+94,Badminton,Badminton Mixed Doubles
+298,Sailing,Sailing Mixed Two Person Keelboat
+438,Wrestling,"Wrestling Men's Light-Flyweight, Freestyle"
+452,Wrestling,"Wrestling Women's Featherweight, Freestyle"
+369,Swimming,Swimming Women's 200 metres Freestyle
+374,Swimming,Swimming Women's 400 metres Freestyle
+370,Swimming,Swimming Women's 200 metres Individual Medley
+244,Judo,Judo Men's Open Class
+329,Shooting,Shooting Mixed Trap
+280,Rugby Sevens,Rugby Sevens Men's Rugby Sevens
+456,Wrestling,"Wrestling Women's Lightweight, Freestyle"
+108,Boxing,Boxing Men's Light-Middleweight
+255,Modern Pentathlon,Modern Pentathlon Women's Individual
+120,Canoeing,"Canoeing Men's Canadian Doubles, Slalom"
+247,Judo,Judo Women's Half-Lightweight
+328,Shooting,"Shooting Mixed Small-Bore Rifle, Three Positions, 50 metres"
+327,Shooting,"Shooting Mixed Small-Bore Rifle, Prone, 50 metres"
+377,Swimming,Swimming Women's 800 metres Freestyle
+303,Sailing,Sailing Women's Two Person Dinghy
+248,Judo,Judo Women's Half-Middleweight
+83,Athletics,Athletics Women's Heptathlon
+155,Cycling,Cycling Men's Points Race
+379,Synchronized Swimming,Synchronized Swimming Women's Solo
+190,Equestrianism,"Equestrianism Mixed Dressage, Individual"
+191,Equestrianism,"Equestrianism Mixed Dressage, Team"
+341,Swimming,Swimming Men's 100 metres Breaststroke
+396,Tennis,Tennis Men's Singles
+322,Shooting,"Shooting Mixed Free Pistol, 50 metres"
+202,Fencing,"Fencing Women's Foil, Individual"
+338,Swimming,"Swimming Men's 1,500 metres Freestyle"
+235,Hockey,Hockey Women's Hockey
+128,Canoeing,"Canoeing Men's Kayak Doubles, 10,000 metres"
+403,Triathlon,Triathlon Men's Olympic Distance
+300,Sailing,Sailing Women's One Person Dinghy
+101,Beach Volleyball,Beach Volleyball Women's Beach Volleyball
+346,Swimming,Swimming Men's 200 metres Breaststroke
+439,Wrestling,"Wrestling Men's Light-Flyweight, Greco-Roman"
+211,Golf,Golf Men's Individual
+121,Canoeing,"Canoeing Men's Canadian Singles, 1,000 metres"
+288,Sailing,Sailing Mixed 5.5 metres
+193,Equestrianism,"Equestrianism Mixed Jumping, Team"
+4,Archery,Archery Women's Team
+178,Diving,Diving Men's Synchronized Platform
+142,Canoeing,"Canoeing Women's Kayak Singles, Slalom"
+424,Weightlifting,Weightlifting Women's Flyweight
+363,Swimming,Swimming Women's 100 metres Breaststroke
+367,Swimming,Swimming Women's 200 metres Breaststroke
+334,Shooting,"Shooting Women's Small-Bore Rifle, Three Positions, 50 metres"
+364,Swimming,Swimming Women's 100 metres Butterfly
+73,Athletics,"Athletics Women's 3,000 metres Steeplechase"
+60,Athletics,"Athletics Men's Shot Put, Both Hands"
+336,Shooting,Shooting Women's Trap
+92,Badminton,Badminton Men's Doubles
+287,Sailing,Sailing Men's Windsurfer
+373,Swimming,Swimming Women's 4 x 200 metres Freestyle Relay
+269,Rowing,Rowing Men's Single Sculls
+70,Athletics,Athletics Women's 20 kilometres Walk
+79,Athletics,Athletics Women's 80 metres Hurdles
+283,Sailing,Sailing Men's One Person Heavyweight Dinghy
+301,Sailing,Sailing Women's Skiff
+152,Cycling,Cycling Men's Madison
+138,Canoeing,"Canoeing Women's Kayak Doubles, 500 metres"
+150,Cycling,Cycling Men's Individual Time Trial
+249,Judo,Judo Women's Heavyweight
+127,Canoeing,"Canoeing Men's Kayak Doubles, 1,000 metres"
+448,Wrestling,"Wrestling Men's Super-Heavyweight, Freestyle"
+381,Table Tennis,Table Tennis Men's Doubles
+205,Fencing,"Fencing Women's Sabre, Team"
+365,Swimming,Swimming Women's 100 metres Freestyle
+307,Shooting,Shooting Men's Double Trap
+389,Taekwondo,Taekwondo Men's Heavyweight
+299,Sailing,Sailing Mixed Windsurfer
+323,Shooting,"Shooting Mixed Free Rifle, Three Positions, 300 metres"
+324,Shooting,"Shooting Mixed Rapid-Fire Pistol, 25 metres"
+421,Weightlifting,Weightlifting Men's Super-Heavyweight
+134,Canoeing,"Canoeing Men's Kayak Singles, 10,000 metres"
+125,Canoeing,"Canoeing Men's Canadian Singles, Slalom"
+311,Shooting,"Shooting Men's Free Rifle, Three Positions, 300 metres"
+292,Sailing,Sailing Mixed Multihull
+96,Badminton,Badminton Women's Singles
+95,Badminton,Badminton Women's Doubles
+182,Diving,Diving Women's Synchronized Platform
+91,Athletics,Athletics Women's Triple Jump
+266,Rowing,Rowing Men's Lightweight Coxless Fours
+411,Weightlifting,Weightlifting Men's Bantamweight
+115,Boxing,Boxing Women's Lightweight
+164,Cycling,Cycling Women's BMX
+129,Canoeing,"Canoeing Men's Kayak Doubles, 200 metres"
+141,Canoeing,"Canoeing Women's Kayak Singles, 500 metres"
+66,Athletics,Athletics Women's 10 kilometres Walk
+245,Judo,Judo Women's Extra-Lightweight
+179,Diving,Diving Men's Synchronized Springboard
+296,Sailing,Sailing Mixed Two Person Dinghy
+315,Shooting,"Shooting Men's Running Target, 10 metres"
+148,Cycling,Cycling Men's BMX
+44,Athletics,"Athletics Men's Cross-Country, Individual"
+45,Athletics,"Athletics Men's Cross-Country, Team"
+393,Taekwondo,Taekwondo Women's Heavyweight
+17,Athletics,Athletics Men's 10 kilometres Walk
+251,Judo,Judo Women's Middleweight
+400,Tennis,Tennis Women's Singles
+250,Judo,Judo Women's Lightweight
+132,Canoeing,Canoeing Men's Kayak Relay 4 x 500 metres
+140,Canoeing,"Canoeing Women's Kayak Singles, 200 metres"
+271,Rowing,Rowing Women's Coxed Fours
+124,Canoeing,"Canoeing Men's Canadian Singles, 500 metres"
+207,Fencing,"Fencing Women's epee, Team"
+294,Sailing,Sailing Mixed Skiff
+29,Athletics,"Athletics Men's 3,000 metres, Team"
+361,Swimming,Swimming Women's 10 kilometres Open Water
+284,Sailing,Sailing Men's Skiff
+57,Athletics,Athletics Men's Pentathlon
+333,Shooting,Shooting Women's Skeet
+399,Tennis,Tennis Women's Doubles
+394,Taekwondo,Taekwondo Women's Welterweight
+173,Cycling,Cycling Women's Team Pursuit
+325,Shooting,"Shooting Mixed Running Target, 50 metres"
+166,Cycling,Cycling Women's Individual Time Trial
+188,Equestrianism,"Equestrianism Men's Three-Day Event, Individual"
+189,Equestrianism,"Equestrianism Men's Three-Day Event, Team"
+204,Fencing,"Fencing Women's Sabre, Individual"
+154,Cycling,Cycling Men's Omnium
+279,Rugby,Rugby Men's Rugby
+355,Swimming,Swimming Men's 400 metres Breaststroke
+122,Canoeing,"Canoeing Men's Canadian Singles, 10,000 metres"
+165,Cycling,"Cycling Women's Individual Pursuit, 3,000 metres"
+170,Cycling,Cycling Women's Points Race
+286,Sailing,Sailing Men's Two Person Keelboat
+151,Cycling,Cycling Men's Keirin
+162,Cycling,Cycling Men's Team Sprint
+398,Tennis,Tennis Mixed Doubles
+212,Golf,Golf Women's Individual
+415,Weightlifting,Weightlifting Men's Heavyweight I
+230,Gymnastics,Gymnastics Women's Team Portable Apparatus
+289,Sailing,Sailing Mixed 6 metres
+453,Wrestling,"Wrestling Women's Flyweight, Freestyle"
+339,Swimming,Swimming Men's 10 kilometres Open Water
+157,Cycling,"Cycling Men's Road Race, Team"
+444,Wrestling,"Wrestling Men's Middleweight A, Greco-Roman"
+457,Wrestling,"Wrestling Women's Middleweight, Freestyle"
+386,Table Tennis,Table Tennis Women's Team
+82,Athletics,Athletics Women's Hammer Throw
+135,Canoeing,"Canoeing Men's Kayak Singles, 200 metres"
+159,Cycling,"Cycling Men's Tandem Sprint, 2,000 metres"
+332,Shooting,Shooting Women's Double Trap
+416,Weightlifting,Weightlifting Men's Heavyweight II
+116,Boxing,Boxing Women's Middleweight
+273,Rowing,Rowing Women's Coxless Fours
+405,Tug-Of-War,Tug-Of-War Men's Tug-Of-War
+54,Athletics,"Athletics Men's Javelin Throw, Freestyle"
+222,Gymnastics,Gymnastics Men's Rope Climbing
+167,Cycling,Cycling Women's Keirin
+37,Athletics,Athletics Men's 5 mile
+123,Canoeing,"Canoeing Men's Canadian Singles, 200 metres"
+236,Ice Hockey,Ice Hockey Men's Ice Hockey
+169,Cycling,Cycling Women's Omnium
+30,Athletics,"Athletics Men's 3,200 metres Steeplechase"
+26,Athletics,"Athletics Men's 3 mile, Team"
+145,Cycling,Cycling Men's 20 kilometres
+16,Athletics,"Athletics Men's 1,600 metres Medley Relay"
+8,Art Competitions,Art Competitions Mixed Literature
+9,Art Competitions,"Art Competitions Mixed Literature, Unknown Event"
+252,Lacrosse,Lacrosse Men's Lacrosse
+48,Athletics,"Athletics Men's Discus Throw, Both Hands"
+186,Equestrianism,"Equestrianism Men's Jumping, Individual"
+187,Equestrianism,"Equestrianism Men's Jumping, Team"
+174,Cycling,Cycling Women's Team Sprint
+41,Athletics,Athletics Men's 60 metres
+147,Cycling,Cycling Men's 50 kilometres
+22,Athletics,"Athletics Men's 2,590 metres Steeplechase"
+14,Art Competitions,"Art Competitions Mixed Sculpturing, Unknown Event"
+261,Rowing,"Rowing Men's Coxed Fours, Outriggers"
+360,Swimming,Swimming Men's 50 yard Freestyle
+344,Swimming,Swimming Men's 100 yard Freestyle
+350,Swimming,Swimming Men's 220 yard Freestyle
+358,Swimming,Swimming Men's 440 yard Freestyle
+354,Swimming,Swimming Men's 4 x 50 Yard Freestyle Relay
+313,Shooting,"Shooting Men's Military Rifle, Any Position, 600 metres"
+312,Shooting,"Shooting Men's Military Rifle, 200, 400, 500 and 600 metres, Team"
+160,Cycling,"Cycling Men's Team Pursuit, 1,980 yards"
+146,Cycling,"Cycling Men's 5,000 metres"
+40,Athletics,Athletics Men's 56-pound Weight Throw
+118,Canoeing,"Canoeing Men's Canadian Doubles, 10,000 metres"
+126,Canoeing,"Canoeing Men's Folding Kayak Singles, 10 kilometres"
+291,Sailing,Sailing Mixed 8 metres
+63,Athletics,Athletics Men's Standing Triple Jump
+28,Athletics,"Athletics Men's 3,000 metres Walk"
+10,Art Competitions,Art Competitions Mixed Music
+31,Athletics,"Athletics Men's 3,500 metres Walk"
+18,Athletics,Athletics Men's 10 mile Walk
+7,Art Competitions,"Art Competitions Mixed Architecture, Unknown Event"
+53,Athletics,"Athletics Men's Javelin Throw, Both Hands"
+218,Gymnastics,"Gymnastics Men's Individual All-Around, Field Sports"
+217,Gymnastics,"Gymnastics Men's Individual All-Around, Apparatus Work"
+43,Athletics,Athletics Men's All-Around Championship
+32,Athletics,"Athletics Men's 4 mile, Team"
+12,Art Competitions,"Art Competitions Mixed Painting, Unknown Event"
+25,Athletics,Athletics Men's 200 metres Hurdles
+5,Art Competitions,"Art Competitions Mixed Architecture, Architectural Designs"
+256,Motorboating,Motorboating Mixed A-Class (Open)
+321,Shooting,"Shooting Men's Trap, Team"
+208,Figure Skating,Figure Skating Mixed Pairs
+175,Diving,Diving Men's Plain High
+422,Weightlifting,"Weightlifting Men's Unlimited, Two Hands"
+410,Weightlifting,Weightlifting Men's All-Around Dumbbell Contest
+310,Shooting,"Shooting Men's Free Rifle, Prone, 600 metres"
+309,Shooting,"Shooting Men's Free Rifle, 400, 600 and 800 metres, Team"
+13,Art Competitions,Art Competitions Mixed Sculpturing
+290,Sailing,Sailing Mixed 6.5 metres
+6,Art Competitions,"Art Competitions Mixed Architecture, Designs For Town Planning"
+445,Wrestling,"Wrestling Men's Middleweight B, Greco-Roman"
+11,Art Competitions,"Art Competitions Mixed Painting, Paintings"
+224,Gymnastics,"Gymnastics Men's Team All-Around, Swedish System"
+184,Equestrianism,"Equestrianism Men's Dressage, Individual"
+185,Equestrianism,"Equestrianism Men's Dressage, Team"
+397,Tennis,"Tennis Men's Singles, Covered Courts"
