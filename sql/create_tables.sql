@@ -1,5 +1,3 @@
--- Datenbank erstellen (in pgAdmin oder psql)
-CREATE DATABASE olympics;
 
 -- Tabellen
 CREATE TABLE athletes (
