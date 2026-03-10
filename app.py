@@ -383,7 +383,7 @@ elif page == "💪 Athletenprofil":
 
         st.markdown('<div class="divider"></div>', unsafe_allow_html=True)
 
-        fig = make_subplots(rows=1, cols=4, subplot_titles=list(metrics.keys()))
+        fig = make_subplots(rows=1, cols=4, subplot_titles=list(metrics.keys()), column_widths=[0.25,0.25,0.25,0.25])
         for i, (label, field) in enumerate(metrics.items(), 1):
             winners = subset[field].dropna()
             losers = all_subset[all_subset['hat_medaille'] == 'Keine Medaille'][field].dropna()
@@ -466,7 +466,8 @@ elif page == "⚖️ Körper & Medaillen":
                         marker_color=col, showlegend=(sport_name == top_sports[0]),
                         line_color=col,
                     ))
-            _layout(fig, height=500,
+            _layout(fig, height=600,
+                boxgap=0.1, boxgroupgap=0.1,
                 title="Altersunterschied Gewinner vs. Nicht-Gewinner (Top 15 Sportarten)",
                 xaxis_title="", yaxis_title="Alter",
                 boxmode='group',
@@ -500,7 +501,8 @@ elif page == "⚖️ Körper & Medaillen":
                         marker_color=col, showlegend=(sport_name == top_sports_h[0]),
                         line_color=col,
                     ))
-            _layout(fig, height=500,
+            _layout(fig, height=600,
+                boxgap=0.1, boxgroupgap=0.1,
                 title="Größenunterschied Gewinner vs. Nicht-Gewinner (Top 15 Sportarten)",
                 xaxis_title="", yaxis_title="Größe (m)",
                 boxmode='group',
@@ -528,7 +530,8 @@ elif page == "⚖️ Körper & Medaillen":
                         marker_color=col, showlegend=(sport_name == top_sports_b[0]),
                         line_color=col,
                     ))
-            _layout(fig, height=500,
+            _layout(fig, height=600,
+                boxgap=0.1, boxgroupgap=0.1,
                 title="BMI-Unterschied Gewinner vs. Nicht-Gewinner (Top 15 Sportarten)",
                 xaxis_title="", yaxis_title="BMI",
                 boxmode='group',
