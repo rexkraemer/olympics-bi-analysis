@@ -467,7 +467,7 @@ elif page == "⚖️ Körper & Medaillen":
                         line_color=col,
                     ))
             _layout(fig, height=600,
-                boxgap=0.1, boxgroupgap=0.1,
+                boxmode='group', boxgap=0.2, boxgroupgap=0.3,
                 title="Altersunterschied Gewinner vs. Nicht-Gewinner (Top 15 Sportarten)",
                 xaxis_title="", yaxis_title="Alter",
                 boxmode='group',
@@ -502,7 +502,7 @@ elif page == "⚖️ Körper & Medaillen":
                         line_color=col,
                     ))
             _layout(fig, height=600,
-                boxgap=0.1, boxgroupgap=0.1,
+                boxmode='group', boxgap=0.2, boxgroupgap=0.3,
                 title="Größenunterschied Gewinner vs. Nicht-Gewinner (Top 15 Sportarten)",
                 xaxis_title="", yaxis_title="Größe (m)",
                 boxmode='group',
@@ -531,7 +531,7 @@ elif page == "⚖️ Körper & Medaillen":
                         line_color=col,
                     ))
             _layout(fig, height=600,
-                boxgap=0.1, boxgroupgap=0.1,
+                boxmode='group', boxgap=0.2, boxgroupgap=0.3,
                 title="BMI-Unterschied Gewinner vs. Nicht-Gewinner (Top 15 Sportarten)",
                 xaxis_title="", yaxis_title="BMI",
                 boxmode='group',
